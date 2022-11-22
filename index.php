@@ -38,7 +38,7 @@ if (isset($_POST['enrollno'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
     <title>Attendance Form</title>
     <link rel="stylesheet" type="text/css" href="form.css">
-    <link rel="shortcut icon" href="img/form.png" type="image/x-icon">
+    <link rel="shortcut icon" href="form.png" type="image/x-icon">
     <script type="text/javascript" src="form.js"></script>
 </head>
 
